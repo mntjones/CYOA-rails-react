@@ -1,0 +1,2 @@
+class StorySec < ApplicationRecord
+end
